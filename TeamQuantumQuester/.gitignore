@@ -1,2 +1,3 @@
 code/yolo/darkflow/bin/*.weights
 .env
+__pycache__/
